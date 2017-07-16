@@ -123,7 +123,7 @@ func init() {
 	helper.SetLogLevel(envLogLevel)
 	helper.Execute()
 
-	//Kit = helper.GetLogKit()
+	Kit = helper.GetLogKit()
 
 	go func() {
 		for {

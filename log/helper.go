@@ -1,5 +1,7 @@
 package log
 
+/*
+
 import (
 	"fmt"
 	"log"
@@ -188,4 +190,6 @@ func (this *logHelper) createLogFile() error {
 	}
 
 	return err
+
 }
+*/
